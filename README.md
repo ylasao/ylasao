@@ -1,8 +1,5 @@
 <!-- Add a Header Banner -->
-<p align="center">
- ![image](https://github.com/user-attachments/assets/e4a89814-d8aa-4a9b-855a-02269029d503)
-
-</p>
+![image](https://github.com/user-attachments/assets/ad3d51fb-1938-4e2f-807a-852bc97ec4b7)
 
 <h1 align="center">Hi there, I'm <a href="#">Trần Văn Ý</a>! 👋</h1>
 <h3 align="center">💻 A Passionate Front-End Developer from Vietnam 🇻🇳</h3>
