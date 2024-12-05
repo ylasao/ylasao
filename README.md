@@ -1,6 +1,3 @@
-## Hi there 👋
-
- 
 <!-- Add a Header Banner -->
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Banner" width="100%" />
@@ -20,6 +17,7 @@
 - 🎨 I focus on **UI/UX design** for responsive, user-friendly websites.
 - 🌍 **Age:** 20 | From **Vietnam 🇻🇳**.
 - 🌱 Currently learning **Next.js** and sharpening my skills in **designing layouts**.
+- 🌟 **Fun fact:** I don’t have a girlfriend! ❤️
 
 ---
 
@@ -46,7 +44,7 @@
 ## 🚀 My Projects
 <p align="center">
   <!-- Project 1 -->
-  <a href="#">
+  <a href="https://github.com/ylasao/Ecommerce">
     <img src="https://img.shields.io/static/v1?label=Project&message=E-Commerce+Website&color=ff5722&style=for-the-badge" />
   </a>
   <br>
@@ -57,7 +55,7 @@
 
 <p align="center">
   <!-- Project 2 -->
-  <a href="#">
+  <a href="https://github.com/ylasao/blog-food-2024">
     <img src="https://img.shields.io/static/v1?label=Project&message=Recipe+Sharing+App&color=4caf50&style=for-the-badge" />
   </a>
   <br>
@@ -70,21 +68,21 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ylasao&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylasao&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername" target="_blank">
+  <a href="https://github.com/ylasao" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YourProfile" target="_blank">
+  <a href="https://linkedin.com/in/ylasao" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:ylasao@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
