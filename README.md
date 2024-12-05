@@ -52,10 +52,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/DoAn-YoungTech/YoungTech">
-    <img src="https://img.shields.io/static/v1?label=Project&message=E-Commerce+Website&color=ff5722&style=for-the-badge" />
+    <img src="https://img.shields.io/static/v1?label=Project&message=Y-oungTech+Website&color=ff5722&style=for-the-badge" />
   </a>
   <br>
-  <b>Description:</b> A responsive electronics e-commerce platform built with Next.js, Tailwind CSS, Node.js, and MySQL.
+  <b>Description:</b>This is a website selling electronic devices A responsive electronics  platform built with  Next.js, Tailwind CSS, Node.js, Express.js and MySQL.
   <br>
   <b>Live Demo:</b> [Visit Here](#)
 </p>
