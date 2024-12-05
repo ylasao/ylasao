@@ -1,7 +1,7 @@
 <!-- Add a Header Banner -->
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/2f982e82-a634-49e9-a773-92406a7fd761)
-" alt="Banner" width="100%" />
+ ![image](https://github.com/user-attachments/assets/e4a89814-d8aa-4a9b-855a-02269029d503)
+
 </p>
 
 <h1 align="center">Hi there, I'm <a href="#">Trần Văn Ý</a>! 👋</h1>
